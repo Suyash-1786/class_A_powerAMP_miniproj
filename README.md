@@ -178,12 +178,11 @@ $$
 At maximum output:
 
 $$
-\eta =
-\frac{90}{360}\times100
+\eta =\frac{90}{360}\times100
 $$
 
 $$
-\boxed{\eta = 25\%}
+\eta = 25\%
 $$
 
 Therefore, the conventional resistively loaded Class-A amplifier approaches its theoretical **25% maximum efficiency at full output**.
